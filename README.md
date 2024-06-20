@@ -22,3 +22,7 @@ To do this, I compiled data on NHL teams' preseason odds, midseason standings, a
 ## CONCLUSION / LEARNINGS / NEXT STEPS
 -This was a fun project to test myself and what I've learned over the past few months.  While I didn't find any significance in whether trading for an all-star would offer a team any significant difference in their chances of winning the Stanley Cup, I definitely learned plenty, and look forward to further exploring this question. Some key takeaways include getting a real example of how much work often needs to be done with data in effort to try and prove a hypothesis.  I look forward to continue improving my coding skills while diving further into a second portion of the project in effort to define an 'all-star' and a 'role-player' on statistics rather than solely whether a player was voted into an all-star game.  Taking more factors into consideration should offer far more into a players value rather than whether they were the best or most popular player on their team.
 
+#### CONTENTS
+-Data contains csv files used in or derived from Python Notebooks
+-Notebooks contains coding work and analysis, as well as work done modeling
+-Presentation contains the final presentation for class
